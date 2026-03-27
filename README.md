@@ -6,7 +6,7 @@ To ensure the accuracy of our analysis, we excluded CVE reports with broken link
 
 
 
-Table 1: Results of Expert Review on Semantic Identification in Black-box Scenarios.
+**Table 1: Results of Expert Review on Semantic Identification in Black-box Scenarios.**
 
 | **Evaluation Metric** | **Count** | **Ratio (%)** | **Description**                           |
 | --------------------- | --------- | ------------- | ----------------------------------------- |
